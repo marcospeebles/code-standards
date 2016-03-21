@@ -4,7 +4,7 @@
 
 All content licensed under Creative Commons Attribution 3.0 Unported License
 
-Forked from Isobar Isobar Front-end Development Standards and Guidelines https://isobar-idev.github.io/code-standards/
+Forked from Isobar Front-end Development Standards and Guidelines https://isobar-idev.github.io/code-standards/
 
 ## Summary:
 
