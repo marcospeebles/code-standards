@@ -30,7 +30,7 @@ This also enables pull requests to focus on content and forks to the content to 
 To view the latest, you can just clone locally:
 
 ```bash
-git clone git://github.com/isobar-idev/code-standards.git
+git clone git@github.com:marcospeebles/code-standards.git
 ```
 
 To make changes using the process in place, please use the build process. The next few sections describe this build process.
